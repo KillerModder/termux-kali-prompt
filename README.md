@@ -1,4 +1,6 @@
-┌(user@host)-[~] └─$
+Mude o prompt do seu termux para o prompt do kali linux, totalmente customizavel.
+
+![Preview](PreviewImage.png)
 ---
 
 ## ✨ Funcionalidades
