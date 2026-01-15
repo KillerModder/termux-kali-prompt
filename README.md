@@ -20,7 +20,7 @@
 
 ```bash
 pkg install git -y
-git clone https://github.com/SEU_USUARIO/termux-kali-prompt
+git clone https://github.com/KillerModder/termux-kali-prompt
 cd termux-kali-prompt
 chmod +x kali-prompt-termux.sh
 ./kali-prompt-termux.sh
